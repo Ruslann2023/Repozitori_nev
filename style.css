@@ -16,3 +16,21 @@ h1{ display: flex;
     padding: 20px;
 
 }
+
+.Header nav ul{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+    color: aliceblue;
+    margin: 10px 10px 0 10px;
+    border-radius: 15px;
+    padding: 20px;
+
+}
+.Header nav ul li{
+    color: inherit;
+    background-color: darkgrey;
+    padding: 10px;
+    text-transform: uppercase;
+    border-radius: 5px;
+}
